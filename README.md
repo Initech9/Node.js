@@ -9,6 +9,7 @@ A simple calculator that takes user data and stores it onto a text file on the s
 
 ____________________________
 Usage:
+in hyper or terminal type:
 
 nodemon calculator.js
 ____________________________
