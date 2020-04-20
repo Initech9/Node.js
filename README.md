@@ -9,6 +9,8 @@ A simple calculator that takes user data and stores it onto a text file on the s
 What you need:
 Express installed.
 Node.js 
+NOTE: You need the node_modules folder!
+
 
 File structure:
 FOLDER [node_modules] you get this from getting express
