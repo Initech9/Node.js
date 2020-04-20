@@ -22,10 +22,11 @@ server.js
 ____________________________
 Usage:
 in hyper or terminal go to the folder of the calculator.js and ngrok.exe and type:
-
+./ngrok http 80
 nodemon calculator.js
 
-./ngrok http 80
+then go to your browser and type localhost in the browser bar
+
 ____________________________
 
 
