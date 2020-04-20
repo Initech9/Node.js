@@ -12,6 +12,7 @@ Usage:
 in hyper or terminal go to the folder of the calculator.js and ngrok.exe and type:
 
 nodemon calculator.js
+
 ./ngrok http 80
 ____________________________
 
