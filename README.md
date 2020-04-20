@@ -9,9 +9,10 @@ A simple calculator that takes user data and stores it onto a text file on the s
 
 ____________________________
 Usage:
-in hyper or terminal type:
+in hyper or terminal go to the folder of the calculator.js and ngrok.exe and type:
 
 nodemon calculator.js
+./ngrok http 80
 ____________________________
 
 
