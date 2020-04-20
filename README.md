@@ -6,6 +6,19 @@ Node.js learning project
 
 A simple calculator that takes user data and stores it onto a text file on the server side. 
 
+What you need:
+Express installed.
+Node.js 
+
+File structure:
+FOLDER [node_modules] you get this from getting express
+calculator.js
+index.html
+mynewfile1.txt
+package.json
+package-lock
+README.md
+server.js
 
 ____________________________
 Usage:
